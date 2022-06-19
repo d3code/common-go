@@ -1,4 +1,4 @@
-package helper
+package rsa
 
 import (
 	"crypto/rand"
